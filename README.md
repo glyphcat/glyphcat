@@ -1,4 +1,4 @@
-I'm a software engineer with experience in mobile and web development (FE & BE).  
+Hello, I'm a software engineer with experience in mobile and web development (FE & BE).  
 
 My handle comes from a mix of "hieroglyph" and my adorable cat 🐈.  
 I studied computer science and archaeology at university — a bit of code, a bit of ruins.  
@@ -25,7 +25,7 @@ Feel free to reach out if you'd like to connect, collaborate, or just chat about
 
 <br>
 <p align="left" margin-top="15px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glyphcat&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glyphcat&layout=compact&theme=material-palenight" alt="Top Langs" />
 </p>
 
 
