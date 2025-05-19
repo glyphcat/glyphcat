@@ -1,6 +1,6 @@
 Hello, I'm a software engineer with experience in mobile and web development (FE & BE).  
 
-My handle comes from a mix of "hieroglyph" and my adorable cat 🐈.  
+My handle comes from a mix of *hieroglyph* and *my cat* 🐈.  
 I studied computer science and archaeology at university — a bit of code, a bit of ruins.  
 
 Feel free to reach out if you'd like to connect, collaborate, or just chat about tech and software things.
