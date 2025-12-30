@@ -23,10 +23,10 @@ Feel free to reach out if you'd like to connect, collaborate, or just chat about
 - [**AtCoder environment**](https://github.com/glyphcat/atcoder-env) — A Docker-based setup for AtCoder with multi-language support and atcoder-tools integration
 - [**Soupsmith**](https://github.com/glyphcat/soupsmith) — An AI-powered code generator for web scraping (🚧 WIP) -->
 
-<br>
+<!-- <br>
 <p align="left" margin-top="15px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glyphcat&layout=compact&theme=material-palenight" alt="Top Langs" />
-</p>
+</p> -->
 
 
 
