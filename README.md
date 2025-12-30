@@ -1,4 +1,4 @@
-Hello, I'm a software engineer with experience in mobile and web development (FE & BE).  
+<!-- Hello, I'm a software engineer with experience in mobile and web development (FE & BE).  
 
 My handle comes from a mix of *hieroglyph* and *my cat* 🐈.  
 I studied computer science and archaeology at university — a bit of code, a bit of ruins.  
@@ -21,7 +21,7 @@ Feel free to reach out if you'd like to connect, collaborate, or just chat about
 #### 📌 Featured Projects
 - [**Japanese Fake News Detector**](https://github.com/glyphcat/fake-news-detector) — A BERT-based model for classifying news as *real* or *fake*
 - [**AtCoder environment**](https://github.com/glyphcat/atcoder-env) — A Docker-based setup for AtCoder with multi-language support and atcoder-tools integration
-- [**Soupsmith**](https://github.com/glyphcat/soupsmith) — An AI-powered code generator for web scraping (🚧 WIP)
+- [**Soupsmith**](https://github.com/glyphcat/soupsmith) — An AI-powered code generator for web scraping (🚧 WIP) -->
 
 <br>
 <p align="left" margin-top="15px">
